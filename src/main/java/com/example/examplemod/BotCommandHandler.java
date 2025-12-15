@@ -66,7 +66,7 @@ public class BotCommandHandler {
                     })
                 )
         );
-    }
+    } 
 
     private static String getOllamaResponse(String message) {
         try {
